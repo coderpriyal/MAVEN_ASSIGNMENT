@@ -21,5 +21,4 @@ A simple Java Maven project that reads a text file, analyzes its contents, and g
 
 ---
 
-## 📂 Project Structure
 
